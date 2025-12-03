@@ -1,0 +1,12 @@
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 750px;    
+  aspect-ratio: 1 / 1;
+  border: 1px solid black;
+}
+
+.children {
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
